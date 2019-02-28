@@ -6,6 +6,6 @@ describe('Short test', () => {
 
   it('Get all short links', () => {
     var z = new ShortService().getAll();
-    expect(shortLinks).to.equal(z);
+    expect(shortLinks).to.equal(['ludiludi']);
   });
 });
