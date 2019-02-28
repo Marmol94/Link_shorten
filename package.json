@@ -1,0 +1,19 @@
+{
+  "name": "link_shorten",
+  "version": "0.0.1",
+  "description": "Link shortening application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marmol94/Link_shorten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marmol94/Link_shorten/issues"
+  },
+  "homepage": "https://github.com/Marmol94/Link_shorten#readme"
+}
